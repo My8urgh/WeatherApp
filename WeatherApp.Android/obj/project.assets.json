@@ -2142,42 +2142,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Acer\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/eavosloo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
+      "projectUniqueName": "/Users/eavosloo/Programming/Xaml/WeatherApp/WeatherApp/WeatherApp.Android/WeatherApp.Android.csproj",
       "projectName": "WeatherApp.Android",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
-      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\WeatherApp\\WeatherApp.Android\\obj\\",
+      "projectPath": "/Users/eavosloo/Programming/Xaml/WeatherApp/WeatherApp/WeatherApp.Android/WeatherApp.Android.csproj",
+      "packagesPath": "/Users/eavosloo/.nuget/packages/",
+      "outputPath": "/Users/eavosloo/Programming/Xaml/WeatherApp/WeatherApp/WeatherApp.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/eavosloo/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid11.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Acer\\Desktop\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
-              "projectPath": "C:\\Users\\Acer\\Desktop\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
+            "/Users/eavosloo/Programming/Xaml/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj": {
+              "projectPath": "/Users/eavosloo/Programming/Xaml/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj"
             }
           }
         }

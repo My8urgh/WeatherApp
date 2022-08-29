@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FWMIC8wktUjwwQHeHKwYLUfCgtZwRf/nNLzs2IEw4u4BbtWGu/J3/IlqbAubObd0CiX/ByRxzj97WaT4GR7iiA==",
+  "dgSpecHash": "HhV4XBRbApZgFGD5FdJro1frZ2U5N37BybY4I0oHzfgJvOfDaMZ5lu80Ae36oyNL7G3YFNgZV70QZrt9SvqhKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Desktop\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
+  "projectFilePath": "/Users/eavosloo/Programming/Xaml/WeatherApp/WeatherApp/WeatherApp.iOS/WeatherApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Acer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "/Users/eavosloo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/eavosloo/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/eavosloo/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }
